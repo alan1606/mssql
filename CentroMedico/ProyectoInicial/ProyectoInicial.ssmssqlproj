@@ -25,11 +25,35 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Comandos.sql</FullPath>
         </FileNode>
+        <FileNode Name="ControlStructures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ControlStructures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Operators.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Operators.sql</FullPath>
+        </FileNode>
         <FileNode Name="Selects.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Selects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoredProcedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>StoredProcedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StoredProcedures2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>StoredProcedures2.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
