@@ -1,0 +1,1 @@
+SELECT * FROM Paciente WHERE apellido = 'Alarcon';
