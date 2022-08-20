@@ -1,0 +1,6 @@
+--SELECT * FROM Paciente SELECT * FROM Medico 
+EXEC INSERT_TURN 
+	'20220820 03:30',
+	11,
+	1,
+	'TOS'
