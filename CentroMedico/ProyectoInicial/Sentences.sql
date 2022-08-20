@@ -1,0 +1,33 @@
+/*
+	CREATE
+		TABLE, TYPE, FUNCTION
+*/
+
+CREATE FUNCTION SUMAR(@num1 int, @num2 int)
+RETURNS INT
+AS
+
+BEGIN
+	return @num1 + @num2
+END
+
+
+select dbo.SUMAR(5,3)
+
+
+
+/*	
+	ALTER	Table
+		ADD, ALTER COLUMN, DROP COLUMN
+*/
+
+/*
+	DROP
+		TABLE, DATABASE	
+*/
+
+/*
+	TRUNCATE			REMOVES DATA AND RESET IDENTITY
+
+		
+*/
