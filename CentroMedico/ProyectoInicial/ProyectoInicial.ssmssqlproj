@@ -31,6 +31,12 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>ControlStructures.sql</FullPath>
         </FileNode>
+        <FileNode Name="JoinsAndUnions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>JoinsAndUnions.sql</FullPath>
+        </FileNode>
         <FileNode Name="Operators.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
@@ -109,11 +115,23 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>StoredProcedures2.sql</FullPath>
         </FileNode>
+        <FileNode Name="Strings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Strings.sql</FullPath>
+        </FileNode>
         <FileNode Name="Tools.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Tools.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Transactions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Transactions.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
