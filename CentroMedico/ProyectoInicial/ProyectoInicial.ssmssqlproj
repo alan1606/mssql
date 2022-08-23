@@ -31,6 +31,24 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>ControlStructures.sql</FullPath>
         </FileNode>
+        <FileNode Name="DEL_Turn.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DEL_Turn.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FunctionsScalars.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FunctionsScalars.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FunctionsTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FunctionsTable.sql</FullPath>
+        </FileNode>
         <FileNode Name="JoinsAndUnions.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
@@ -91,6 +109,24 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>ProcInsertTurnExec.sql</FullPath>
         </FileNode>
+        <FileNode Name="SEL_EspecialidadesMedicas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SEL_EspecialidadesMedicas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SEL_HistoriaPaciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SEL_HistoriaPaciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT_TurnosPaciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT_TurnosPaciente.sql</FullPath>
+        </FileNode>
         <FileNode Name="Selects.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
@@ -132,6 +168,18 @@
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Transactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPD_Pat.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UPD_Pat.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPD_Turno.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UPD_Turno.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
