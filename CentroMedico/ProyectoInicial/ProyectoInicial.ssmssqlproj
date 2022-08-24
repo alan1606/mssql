@@ -157,6 +157,18 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Strings.sql</FullPath>
         </FileNode>
+        <FileNode Name="TemporaryTableEx1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TemporaryTableEx1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TemporaryTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TemporaryTables.sql</FullPath>
+        </FileNode>
         <FileNode Name="Tools.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
@@ -169,6 +181,12 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>Transactions.sql</FullPath>
         </FileNode>
+        <FileNode Name="Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Trigger.sql</FullPath>
+        </FileNode>
         <FileNode Name="UPD_Pat.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
@@ -180,6 +198,12 @@
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>UPD_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Views.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
