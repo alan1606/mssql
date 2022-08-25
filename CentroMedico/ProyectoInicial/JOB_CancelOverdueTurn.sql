@@ -1,0 +1,1 @@
+UPDATE Turno SET estado = 2 WHERE convert(char(8), fechaTurno, 112) < convert(char(8), getDate(), 112) AND estado = 0
