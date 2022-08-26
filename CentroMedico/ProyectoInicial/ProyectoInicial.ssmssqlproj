@@ -3,6 +3,30 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
+        <ConnectionNode Name="./:alan1606">
+          <Created>2022-08-25T13:47:25.7178417-06:00</Created>
+          <Type>SQL</Type>
+          <Server>./</Server>
+          <UserName>alan1606</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="./:pepe">
+          <Created>2022-08-25T14:09:58.7408967-06:00</Created>
+          <Type>SQL</Type>
+          <Server>./</Server>
+          <UserName>pepe</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
         <ConnectionNode Name="./:sa">
           <Created>2022-08-15T16:26:11.9816781-06:00</Created>
           <Type>SQL</Type>
@@ -43,6 +67,12 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>DEL_Turn.sql</FullPath>
         </FileNode>
+        <FileNode Name="FNC_DateAsString.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FNC_DateAsString.sql</FullPath>
+        </FileNode>
         <FileNode Name="FunctionsScalars.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
@@ -54,6 +84,12 @@
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>FunctionsTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JOB_CancelOverdueTurn.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>JOB_CancelOverdueTurn.sql</FullPath>
         </FileNode>
         <FileNode Name="JoinsAndUnions.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
@@ -114,6 +150,18 @@
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>ProcInsertTurnExec.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Schemas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Schemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Security.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Security.sql</FullPath>
         </FileNode>
         <FileNode Name="SEL_EspecialidadesMedicas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>
@@ -204,6 +252,12 @@
           <AssociatedConnSrvName>./</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>UPD_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View_PhysiciansSpecialties.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:alan1606</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>./</AssociatedConnSrvName>
+          <AssociatedConnUserName>alan1606</AssociatedConnUserName>
+          <FullPath>View_PhysiciansSpecialties.sql</FullPath>
         </FileNode>
         <FileNode Name="Views.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:./:False:sa</AssociatedConnectionMoniker>

@@ -1,6 +1,6 @@
 --use CentroMedico; describe Paciente
 
-CREATE PROCEDURE INSERT_PATIENT(
+alter PROCEDURE INSERT_PATIENT(
 	@dni varchar(20),
 	@nombre varchar(50),
 	@apellido varchar(50), 
